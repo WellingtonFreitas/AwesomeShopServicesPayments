@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "400d42aa-78f4-4433-b311-6ac6ba9668fd": {
+      "ProjectGuid": "400d42aa-78f4-4433-b311-6ac6ba9668fd",
+      "DisplayName": "AwesomeShop.Services.Payments.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\bin\Debug\net5.0\AwesomeShop.Services.Payments.Data.deps.json
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\bin\Debug\net5.0\AwesomeShop.Services.Payments.Data.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\bin\Debug\net5.0\ref\AwesomeShop.Services.Payments.Data.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\bin\Debug\net5.0\AwesomeShop.Services.Payments.Data.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\bin\Debug\net5.0\AwesomeShop.Services.Payments.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\bin\Debug\net5.0\AwesomeShop.Services.Payments.Domain.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.csproj.AssemblyReference.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.AssemblyInfoInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.AssemblyInfo.cs
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.csproj.CoreCompileInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.csproj.CopyComplete
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\ref\AwesomeShop.Services.Payments.Data.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Data\obj\Debug\net5.0\AwesomeShop.Services.Payments.Data.pdb

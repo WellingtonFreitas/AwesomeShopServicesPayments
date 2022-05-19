@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32417.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8BFD6786-DDB1-41C1-924C-91947CF24B45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{B56A7411-1063-422B-9618-89FBC4D3FC4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCutting", "{7AFEABAA-C0D7-4FC1-B3D5-A957BE7E4F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShop.Services.Payments.Domain", "AwesomeShop.Services.Payments.Domain\AwesomeShop.Services.Payments.Domain.csproj", "{D074273E-E4B0-49C3-AD41-340D0E3A3FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShop.Services.Payments.Data", "AwesomeShop.Services.Payments.Data\AwesomeShop.Services.Payments.Data.csproj", "{776CA2B6-D297-4B0F-96F8-FFE5D66B8E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShop.Services.Payments.Services", "AwesomeShop.Services.Payments.Services\AwesomeShop.Services.Payments.Services.csproj", "{A5F9FCE7-56D3-4033-93EF-8BA7FBA65AFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplication", "Aplication", "{687BF8AE-8310-42D6-8A73-22034C67B783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShop.Services.Payments.DependencyInjection", "AwesomeShop.Services.Payments.DependencyInjection\AwesomeShop.Services.Payments.DependencyInjection.csproj", "{CA1214DF-73B9-45AF-A94B-7E5954F7F0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShop.Services.Payments.Api", "AwesomeShop.Services.Payments.Api\AwesomeShop.Services.Payments.Api.csproj", "{7CBBCEDA-ED1C-4390-AF33-C177E54B1C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D074273E-E4B0-49C3-AD41-340D0E3A3FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D074273E-E4B0-49C3-AD41-340D0E3A3FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D074273E-E4B0-49C3-AD41-340D0E3A3FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D074273E-E4B0-49C3-AD41-340D0E3A3FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776CA2B6-D297-4B0F-96F8-FFE5D66B8E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776CA2B6-D297-4B0F-96F8-FFE5D66B8E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776CA2B6-D297-4B0F-96F8-FFE5D66B8E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776CA2B6-D297-4B0F-96F8-FFE5D66B8E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F9FCE7-56D3-4033-93EF-8BA7FBA65AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F9FCE7-56D3-4033-93EF-8BA7FBA65AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F9FCE7-56D3-4033-93EF-8BA7FBA65AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F9FCE7-56D3-4033-93EF-8BA7FBA65AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1214DF-73B9-45AF-A94B-7E5954F7F0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1214DF-73B9-45AF-A94B-7E5954F7F0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1214DF-73B9-45AF-A94B-7E5954F7F0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1214DF-73B9-45AF-A94B-7E5954F7F0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBBCEDA-ED1C-4390-AF33-C177E54B1C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBBCEDA-ED1C-4390-AF33-C177E54B1C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBBCEDA-ED1C-4390-AF33-C177E54B1C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBBCEDA-ED1C-4390-AF33-C177E54B1C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D074273E-E4B0-49C3-AD41-340D0E3A3FF2} = {B56A7411-1063-422B-9618-89FBC4D3FC4A}
+		{776CA2B6-D297-4B0F-96F8-FFE5D66B8E54} = {8BFD6786-DDB1-41C1-924C-91947CF24B45}
+		{A5F9FCE7-56D3-4033-93EF-8BA7FBA65AFE} = {8BFD6786-DDB1-41C1-924C-91947CF24B45}
+		{CA1214DF-73B9-45AF-A94B-7E5954F7F0A9} = {7AFEABAA-C0D7-4FC1-B3D5-A957BE7E4F2E}
+		{7CBBCEDA-ED1C-4390-AF33-C177E54B1C34} = {687BF8AE-8310-42D6-8A73-22034C67B783}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2073D0DD-6B2C-448E-9033-84629E0ECA35}
+	EndGlobalSection
+EndGlobal

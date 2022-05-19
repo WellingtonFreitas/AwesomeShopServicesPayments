@@ -1,0 +1,12 @@
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\bin\Debug\net5.0\AwesomeShop.Services.Payments.Domain.deps.json
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\bin\Debug\net5.0\AwesomeShop.Services.Payments.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\bin\Debug\net5.0\ref\AwesomeShop.Services.Payments.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\bin\Debug\net5.0\AwesomeShop.Services.Payments.Domain.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\AwesomeShop.Services.Payments.Domain.csproj.AssemblyReference.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\AwesomeShop.Services.Payments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\AwesomeShop.Services.Payments.Domain.AssemblyInfoInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\AwesomeShop.Services.Payments.Domain.AssemblyInfo.cs
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\AwesomeShop.Services.Payments.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\AwesomeShop.Services.Payments.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\ref\AwesomeShop.Services.Payments.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Payments\src\AwesomeShop.Services.Payments.Domain\obj\Debug\net5.0\AwesomeShop.Services.Payments.Domain.pdb
