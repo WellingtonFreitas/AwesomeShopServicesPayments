@@ -26,7 +26,7 @@ AwesomeShop é um e-commerce em arquitetura de Microsserviços em .NET e contém
 -   Service Discovery com Consul
 -   Observabilidade com Prometheus e Grafana
 
-## AwesomeShopServicesPayments
+## Payments Services 
 É o serviço responsável por processar  e registrar  o pagamento de  pedidos que estão na fila order-service.
   #### Funcionalidades
 - Pagamento e registro de Invoice
